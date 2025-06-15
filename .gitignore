@@ -1,0 +1,12 @@
+# Ignore node_modules if using npm later
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Optional: Ignore build/dist if you bundle in future
+dist/
+build/
